@@ -20,5 +20,6 @@ public class _01世纪末的星期 {
         System.out.println("sdfa");
         System.out.println("sdf");
         System.out.println("wer");
+        System.out.println("pust");
     }
 }
